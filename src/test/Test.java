@@ -1,5 +1,6 @@
 package test;
 
+import org.bson.BSON;
 import org.bson.BasicBSONObject;
 import org.bson.types.BasicBSONList;
 
@@ -20,6 +21,7 @@ public class Test
        BasicBSONObject object = new BasicBSONObject();
        object.put("list" , bsonList);
        BasicBSONList list = (BasicBSONList) object.get("list");
+      BSON.encode(object);
        assert list == null:"list is null";
     }
 }
