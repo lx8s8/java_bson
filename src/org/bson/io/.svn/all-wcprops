@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/yunci4/!svn/ver/11309/AndroidUIB1/src/org/bson/io
+END
+BSONByteBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/yunci4/!svn/ver/11309/AndroidUIB1/src/org/bson/io/BSONByteBuffer.java
+END
+BSONInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/yunci4/!svn/ver/11309/AndroidUIB1/src/org/bson/io/BSONInput.java
+END
+Bits.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/yunci4/!svn/ver/11309/AndroidUIB1/src/org/bson/io/Bits.java
+END
+PoolOutputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/yunci4/!svn/ver/11309/AndroidUIB1/src/org/bson/io/PoolOutputBuffer.java
+END
+OutputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/yunci4/!svn/ver/11309/AndroidUIB1/src/org/bson/io/OutputBuffer.java
+END
+BasicOutputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/yunci4/!svn/ver/11309/AndroidUIB1/src/org/bson/io/BasicOutputBuffer.java
+END
+UTF8Encoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/yunci4/!svn/ver/11309/AndroidUIB1/src/org/bson/io/UTF8Encoding.java
+END

@@ -21,7 +21,7 @@ public class Test
        BasicBSONObject object = new BasicBSONObject();
        object.put("list" , bsonList);
        BasicBSONList list = (BasicBSONList) object.get("list");
-      BSON.encode(object);
+       BasicBSONObject object2 =  (BasicBSONObject) BSON.decode(BSON.encode(object));
        assert list == null:"list is null";
     }
 }

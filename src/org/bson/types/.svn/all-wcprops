@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/yunci4/!svn/ver/11309/AndroidUIB1/src/org/bson/types
+END
+BasicBSONList.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/yunci4/!svn/ver/11309/AndroidUIB1/src/org/bson/types/BasicBSONList.java
+END
+ObjectId.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/yunci4/!svn/ver/11309/AndroidUIB1/src/org/bson/types/ObjectId.java
+END
+Binary.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/yunci4/!svn/ver/11309/AndroidUIB1/src/org/bson/types/Binary.java
+END
+BSONTimestamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/yunci4/!svn/ver/11309/AndroidUIB1/src/org/bson/types/BSONTimestamp.java
+END
+Symbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/yunci4/!svn/ver/11309/AndroidUIB1/src/org/bson/types/Symbol.java
+END
+Code.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/yunci4/!svn/ver/11309/AndroidUIB1/src/org/bson/types/Code.java
+END
+CodeWScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/yunci4/!svn/ver/11309/AndroidUIB1/src/org/bson/types/CodeWScope.java
+END
+MinKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/yunci4/!svn/ver/11309/AndroidUIB1/src/org/bson/types/MinKey.java
+END
+MaxKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/yunci4/!svn/ver/11309/AndroidUIB1/src/org/bson/types/MaxKey.java
+END
